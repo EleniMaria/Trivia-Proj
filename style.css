@@ -1,0 +1,28 @@
+/* Comment Trivia CSS */
+main {
+  background: darkslateblue;
+  text-align: center;
+}
+body {
+  font-family: 'metropolis';
+  color: #39ff14;
+  font-size: 1em;
+  background: rgb(87, 87, 87);
+  text-align: center;
+}
+div{
+  font-size: 2em;
+}
+footer{
+  font-size: 2em;
+  text-align: center;
+}
+.back {
+  color: White;
+}
+.section {
+  color: White;
+  font-size: 2em;
+  padding-top: 10px;
+  
+}
