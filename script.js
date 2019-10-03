@@ -5,6 +5,7 @@ class theDeck {
   constructor (front, back) {
     this.front = front;
     this.back = back;
+    // Would make this a method of the class instead, or remove it since it isn't being used.
     this.display = function (side) {
       if (side === 0) {
         return this.front;
